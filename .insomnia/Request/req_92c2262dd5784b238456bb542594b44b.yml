@@ -1,0 +1,29 @@
+_id: req_92c2262dd5784b238456bb542594b44b
+type: Request
+parentId: fld_27ef300df41641ec9cc993a4304a0b55
+modified: 1666652987592
+created: 1665011963374
+url: http://127.0.0.1:3333/disciplinas/30
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_24aa2631386f4737b5ad77ec831f7205
+      name: nome
+      value: Sexologialogia
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1661892924345.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

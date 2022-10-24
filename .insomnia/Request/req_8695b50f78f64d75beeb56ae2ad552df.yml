@@ -1,0 +1,37 @@
+_id: req_8695b50f78f64d75beeb56ae2ad552df
+type: Request
+parentId: fld_eb62eaea1865420ea9060be3e78cf24e
+modified: 1665011898690
+created: 1665009884708
+url: http://127.0.0.1:3333/cursos/1
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_24aa2631386f4737b5ad77ec831f7205
+      name: nome
+      value: Sexologia
+      description: ""
+    - id: pair_76de2d5573454432933e8d3ed1947efd
+      name: duracao
+      value: "5"
+      description: ""
+    - id: pair_b05b58c0518d4543afe067c86c09df9a
+      name: modalidade
+      value: p
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1661892924345.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

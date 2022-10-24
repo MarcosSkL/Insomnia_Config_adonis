@@ -1,0 +1,42 @@
+_id: req_97e9be3099da4025a2b4a39e7e16c573
+type: Request
+parentId: fld_0b4070cc6ec04f7d9a6d59f89df7fd75
+modified: 1663808427830
+created: 1663634376775
+url: http://127.0.0.1:3333/ex04
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_1a92b44a85f145f582c80d7a5f77e4eb
+      name: salarioMin
+      value: "1200"
+      description: ""
+    - id: pair_219d0ef6f5a84a14b8cda149ecb627f3
+      name: horasTrabalhadas
+      value: "175"
+      description: ""
+    - id: pair_0eebe04e24344467ad85e107af2842f0
+      name: dependentes
+      value: "3"
+      description: ""
+    - id: pair_0d6e84e76d914b308982b2bb71af68fe
+      name: horasExtras
+      value: "10"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_2c4dcf46d6524435b5387665b94e0175
+authentication: {}
+metaSortKey: -1663634376775
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,42 @@
+_id: req_634987914b4d44d59f64615f20d6dac7
+type: Request
+parentId: fld_2b8bb3c5647842199a10e257c4bd2d9b
+modified: 1661814928800
+created: 1661813153483
+url: http://127.0.0.1:3001/lista01/ex06
+name: ex06
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_fb2d1c752dec45dc927b42abb298a03d
+      name: CarrosVendido
+      value: "5"
+      description: ""
+    - id: pair_44eb93feb1b0420a93a224af752d72ce
+      name: SalarioFixo
+      value: "3000"
+      description: ""
+    - id: pair_47e7e13c8c134d0cb5a883bdf79d27a2
+      name: ValorVendas
+      value: "2000000"
+      description: ""
+    - id: pair_dd4d9b9ae5fd47208d931019f0d6422d
+      name: ValorPorCarro
+      value: "1000"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_a007bf5b9a004ca8981a3c1300a3290f
+authentication: {}
+metaSortKey: -1661215107285.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

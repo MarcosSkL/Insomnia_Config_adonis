@@ -1,0 +1,34 @@
+_id: req_1433249cd48644428cf9666d54df022e
+type: Request
+parentId: fld_27ef300df41641ec9cc993a4304a0b55
+modified: 1666653020725
+created: 1665011963298
+url: http://127.0.0.1:3333/disciplinas
+name: store
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_9e57cbd64bdd479fa83b7bde203ef38f
+      name: nome
+      value: Fisica Quantica
+      description: ""
+    - id: pair_ec514879d41e416ca7ca45f141995554
+      name: curso_id
+      value: "12"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_3da0d66c88394c4994c3f005e73099c9
+authentication: {}
+metaSortKey: -1661817698217
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

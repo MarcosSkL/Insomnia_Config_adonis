@@ -1,0 +1,42 @@
+_id: req_ad9e539ae8554c35af73ca7b6b85b9a0
+type: Request
+parentId: fld_eb62eaea1865420ea9060be3e78cf24e
+modified: 1664842982434
+created: 1662420674522
+url: http://127.0.0.1:3333/cursos
+name: store
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_9e57cbd64bdd479fa83b7bde203ef38f
+      name: nome
+      value: Matematica
+      description: ""
+    - id: pair_ec514879d41e416ca7ca45f141995554
+      name: duracao
+      value: "7"
+      description: ""
+    - id: pair_2b8fe17688c5444eb5417f5f69476329
+      name: modalidade
+      value: e
+      description: ""
+    - id: pair_86b95a6aa8274d2891ebf1a0af380cb6
+      name: telefone
+      value: "222222"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_3da0d66c88394c4994c3f005e73099c9
+authentication: {}
+metaSortKey: -1661817698217
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

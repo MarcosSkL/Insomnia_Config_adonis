@@ -1,0 +1,38 @@
+_id: req_791e1e158ee241a8aa58ea760f4eef0a
+type: Request
+parentId: fld_a1e650cfa56e4e88a9edba7e8f7903a2
+modified: 1662419432771
+created: 1661215082063
+url: http://127.0.0.1:3333/lista02/ex01
+name: Ex01
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_3290e36a96f445a38a9fade47717e3aa
+      name: qtMinima
+      value: "10"
+      description: ""
+    - id: pair_68aa3e29d10b4684997fbf4efb4f6e42
+      name: qtMaxima
+      value: "100"
+      description: ""
+    - id: pair_28eda7345a994062b37b886a6466e2ac
+      name: Nome
+      value: Marcos
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_ae9e0332451e4708b71a1c09e0f6dd4e
+authentication: {}
+metaSortKey: -1661215082063
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

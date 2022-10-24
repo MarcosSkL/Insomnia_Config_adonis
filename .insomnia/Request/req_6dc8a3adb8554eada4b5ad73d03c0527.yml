@@ -1,0 +1,42 @@
+_id: req_6dc8a3adb8554eada4b5ad73d03c0527
+type: Request
+parentId: fld_2b8bb3c5647842199a10e257c4bd2d9b
+modified: 1661815457754
+created: 1661383218641
+url: http://127.0.0.1:3001/lista01/ex03
+name: ex03
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_fb2d1c752dec45dc927b42abb298a03d
+      name: eleitorestotal
+      value: "100000"
+      description: ""
+    - id: pair_44eb93feb1b0420a93a224af752d72ce
+      name: brancostotal
+      value: "2000"
+      description: ""
+    - id: pair_47e7e13c8c134d0cb5a883bdf79d27a2
+      name: nulostotal
+      value: "4000"
+      description: ""
+    - id: pair_87793c716f61472db394c636d6bc31ae
+      name: validostotal
+      value: "90000"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_a007bf5b9a004ca8981a3c1300a3290f
+authentication: {}
+metaSortKey: -1661215283843.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

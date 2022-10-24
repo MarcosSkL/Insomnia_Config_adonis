@@ -1,0 +1,42 @@
+_id: req_dd24a63244634e2f96d131267da04d4a
+type: Request
+parentId: fld_2b8bb3c5647842199a10e257c4bd2d9b
+modified: 1661813188438
+created: 1661215889186
+url: http://127.0.0.1:3001/lista01/ex01
+name: ex01
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_fb2d1c752dec45dc927b42abb298a03d
+      name: nota1
+      value: "6"
+      description: ""
+    - id: pair_44eb93feb1b0420a93a224af752d72ce
+      name: nota2
+      value: "8"
+      description: ""
+    - id: pair_47e7e13c8c134d0cb5a883bdf79d27a2
+      name: nota3
+      value: "9"
+      description: ""
+    - id: pair_87793c716f61472db394c636d6bc31ae
+      name: nota4
+      value: "10"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_a007bf5b9a004ca8981a3c1300a3290f
+authentication: {}
+metaSortKey: -1661215889186
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

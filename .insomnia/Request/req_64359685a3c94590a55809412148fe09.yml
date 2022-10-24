@@ -1,0 +1,54 @@
+_id: req_64359685a3c94590a55809412148fe09
+type: Request
+parentId: fld_07aba71fe3b64f4caa33f7b1bb32d6a7
+modified: 1664836774600
+created: 1664231338156
+url: http://127.0.0.1:3333/prova
+name: prova1
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_819088ecd10a407f8c54fb778323c4b2
+      name: tipoPessoa
+      value: PF
+      description: ""
+    - id: pair_11ea4c610c7540388dfa9358a76d0e31
+      name: cpf
+      value: "12345678910"
+      description: ""
+    - id: pair_2c68f4a0e4f74d06b85dc9d763f274b6
+      name: cnpj
+      value: "1212300109"
+      description: ""
+    - id: pair_5932a80f36c64a6084f304a4fe81cc18
+      name: nome
+      value: Marcos
+      description: ""
+    - id: pair_415f4b1ea29046d18ddcb846c13d0c3e
+      name: sexo
+      value: M
+      description: ""
+    - id: pair_63bb398275b44a8f92fc15a45270603c
+      name: cargo
+      value: Dev
+      description: ""
+    - id: pair_fd0ee0c0bb184e378be5b20bebdfb62a
+      name: salario
+      value: "5000"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_71ce985677ca442a8782c85a4fc2efed
+authentication: {}
+metaSortKey: -1663932849430.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
