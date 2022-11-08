@@ -1,7 +1,7 @@
 _id: req_8a35031783d5462b9d2229d08539b66f
 type: Request
 parentId: fld_eb62eaea1865420ea9060be3e78cf24e
-modified: 1666049032243
+modified: 1667868555482
 created: 1662419507248
 url: http://127.0.0.1:3333/cursos
 name: index
@@ -10,7 +10,9 @@ method: GET
 body: {}
 parameters: []
 headers: []
-authentication: {}
+authentication:
+  type: bearer
+  token: Nw.HF0L75itEa0EdogTt9veRH6lz8NFjeu-XRxXC9WNXqLrRNm4f2mE0fid5doX
 metaSortKey: -1662419507248
 isPrivate: false
 settingStoreCookies: true

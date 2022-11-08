@@ -1,10 +1,10 @@
-_id: req_991d59d1924949a093bfe67e14907ee3
+_id: req_a9b2e34e7e1b40cd9ecbe73ec1e76d2d
 type: Request
 parentId: fld_12038b2461744d31ada3056ab4fcefa7
-modified: 1667868504764
-created: 1667863962295
-url: http://127.0.0.1:3333/users
-name: store
+modified: 1667868502317
+created: 1667866754110
+url: http://127.0.0.1:3333/login
+name: login
 description: ""
 method: POST
 body:
@@ -12,21 +12,19 @@ body:
   params:
     - id: pair_9e57cbd64bdd479fa83b7bde203ef38f
       name: email
-      value: teste@teste.com
+      value: Ciclano@gmail.com
       description: ""
     - id: pair_ec514879d41e416ca7ca45f141995554
       name: password
-      value: "123456"
+      value: "010101"
       description: ""
 parameters: []
 headers:
   - name: Content-Type
     value: application/x-www-form-urlencoded
     id: pair_3da0d66c88394c4994c3f005e73099c9
-authentication:
-  type: bearer
-  token: Nw.HF0L75itEa0EdogTt9veRH6lz8NFjeu-XRxXC9WNXqLrRNm4f2mE0fid5doX
-metaSortKey: -1661817698217
+authentication: {}
+metaSortKey: -1661516793701.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
